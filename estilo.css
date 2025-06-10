@@ -2,7 +2,17 @@
                         margin: 0 !important;
                         font-weight: normal; /* Agrega esta línea para desactivar la negrita */
                         text-align: left;
-                        font-size: 0.5mm !important;
+                        font-size: 12px !important;
+                      }
+
+                      ol {
+                        margin: 0 0 10px 15px;
+                        padding: 0;
+                      }
+                      strong {
+                        display: block;
+                        margin-top: 10px;
+                        font-size: 12px;
                       }
                     *{
                         font-family: tahoma, Helvetica, sans-serif; /* tipo de letra de todo el ticket; */
