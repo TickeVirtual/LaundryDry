@@ -4,6 +4,22 @@
                         text-align: justify;
                         font-size: 8px !important;
                       }
+                      .condiciones-servicio {
+                        font-size: 14px; /* Cambia el tamaño general de la letra */
+                        line-height: 1.5; /* Cambia el espacio entre líneas */
+                        text-align: justify;
+                      }
+                      
+                      .condiciones-servicio h4 {
+                        font-size: 16px; /* Tamaño de los títulos */
+                        margin-top: 10px;
+                        margin-bottom: 5px;
+                      }
+                      
+                      .condiciones-servicio p {
+                        margin: 0 0 10px 0; /* Márgenes inferiores entre párrafos */
+                      }
+
 
                       ol {
                         margin: 0 0 10px 15px;
