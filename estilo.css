@@ -5,8 +5,8 @@
                         font-size: 8px !important;
                       }
                       .condiciones-servicio {
-                        font-size: 10px; /* Cambia el tamaño general de la letra */
-                        line-height: 1.5; /* Cambia el espacio entre líneas */
+                        font-size: 8px; /* Cambia el tamaño general de la letra */
+                        line-height: 0.5; /* Cambia el espacio entre líneas */
                         text-align: justify;
                       }
                       
