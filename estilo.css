@@ -1,8 +1,8 @@
-                .m-0 {
+                .justificado {
                         margin: 0 !important;
                         font-weight: normal; /* Agrega esta línea para desactivar la negrita */
                         text-align: justify;
-                        font-size: 9px !important;
+                        font-size: 6px !important;
                       }
 
                       ol {
